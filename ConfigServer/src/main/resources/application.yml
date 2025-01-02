@@ -9,5 +9,5 @@ spring:
     config:
       server:
         git:
-          uri:
+          uri: https://github.com/Rupaksingh123/MicroService-Project
           clone-on-start: true
